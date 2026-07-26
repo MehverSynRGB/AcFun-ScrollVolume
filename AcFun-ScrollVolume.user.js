@@ -15,9 +15,9 @@
 // @license^            Mozilla Public License 2.0
 // @grant               unsafeWindow
 // @charset		        UTF-8
-// @homepageURL         https://github.com/SynRGB/AcFun-ScrollVolume
-// @contributionURL     https://github.com/SynRGB/AcFun-ScrollVolume
-// @copyright           Copyright © 2022-PRESENT, TitanRGB (https://github.com/TitanRGB)
+// @homepageURL         https://github.com/MehverSynRGB/AcFun-ScrollVolume
+// @contributionURL     https://github.com/MehverSynRGB/AcFun-ScrollVolume
+// @copyright           Copyright (c) 2022 Mehver (https://github.com/Mehver). All rights reserved.
 // ==/UserScript==
 
 // ./icon/bilibili#bpx-svg-sprite-volume
@@ -154,4 +154,4 @@ let main = function (e) {
 
 document.addEventListener('wheel', main, false);
 
-console.log("JS script AcFUN-ScrollVolume (AcFUN-滚轮调音量) loaded. See more details at https://github.com/SynRGB/AcFun-ScrollVolume");
+console.log("JS script AcFUN-ScrollVolume (AcFUN-滚轮调音量) loaded. See more details at https://github.com/MehverSynRGB/AcFun-ScrollVolume");
