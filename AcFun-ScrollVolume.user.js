@@ -154,4 +154,4 @@ let main = function (e) {
 
 document.addEventListener('wheel', main, false);
 
-console.log("JS script AcFUN-ScrollVolume (AcFUN-滚轮调音量) loaded. See more details at https://github.com/MehverSynRGB/AcFun-ScrollVolume");
+console.log("Script AcFun-ScrollVolume (AcFun-滚轮调音量) loaded successfully. https://github.com/MehverSynRGB/AcFun-ScrollVolume");
